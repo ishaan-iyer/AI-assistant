@@ -1,0 +1,6 @@
+.venv*/
+__pycache__/
+*.py[cod]
+study_tracker.db
+study_tracker.db-shm
+study_tracker.db-wal
